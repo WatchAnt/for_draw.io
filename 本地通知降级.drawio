@@ -19,7 +19,7 @@
         <mxCell id="6eolTuulfdpMQWZwz00n-11" value="发送通知" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="6eolTuulfdpMQWZwz00n-2">
           <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6eolTuulfdpMQWZwz00n-7" value="" style="swimlane;align=center;" vertex="1" parent="6eolTuulfdpMQWZwz00n-1">
+        <mxCell id="6eolTuulfdpMQWZwz00n-7" value="system_Framework" style="swimlane;align=center;startSize=23;" vertex="1" parent="6eolTuulfdpMQWZwz00n-1">
           <mxGeometry x="200" y="30" width="350" height="1180" as="geometry" />
         </mxCell>
         <mxCell id="6eolTuulfdpMQWZwz00n-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6eolTuulfdpMQWZwz00n-7" source="6eolTuulfdpMQWZwz00n-13" target="6eolTuulfdpMQWZwz00n-15">
